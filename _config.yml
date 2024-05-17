@@ -16,7 +16,7 @@ timezone:
 
 title: Jorge Blanco # the main title
 
-tagline: My probabilistic corner# it will display as the sub-title
+tagline: My probabilistic corner # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
  A blog on probability analysis and problem-solving.
