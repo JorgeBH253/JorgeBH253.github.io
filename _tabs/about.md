@@ -8,13 +8,13 @@ order: 4
 
 This is my first post. My name is Jorge Blanco, and I am a first-year PhD student at UC Berkeley (Statistics) studying probability theory. Welcome to my blog!
 
-My goal for this blog is to share cool and interesting things I discover. Expect a lot of expository articles, where I rewrite concepts in my own words to better understand them. If you are studying similar topics, I hope you find these posts helpful.
+My goal for this blog is to share cool and interesting things I discover. Expect a lot of expository articles, where I rewrite concepts in my own words to better understand them. I hope you find these posts helpful if you are studying similar topics.
 
 ## So, what content will I be posting?
 
 ### Problem Solving
 
-I am a big fan of problem-solving books, especially those focused on Math Olympiads. I didn't have the chance to focus on them earlier, as I only learned about them in college and didn't have much time then. Moving forward,is to post some problems and solutions weekly. For this semester the plan is  
+I am a big fan of problem-solving books, especially those focused on Math Olympiads. I didn't have the chance to focus on them earlier, as I only learned about them in college and didn't have much time then. Moving forward my goal is to post some problems and solutions weekly. For what remains of 2024 I will be focusing on inequalities. 
 
 ### Probability Theory
 
